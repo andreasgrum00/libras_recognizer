@@ -65,4 +65,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 💬 Contato
 Se você tiver dúvidas ou sugestões, entre em contato:
-- Email: andreasgrum00@gmail.com
+- Email: [andreasgrumichedev@gmail.com](mailto:andreasgrumichedev@gmail.com)
