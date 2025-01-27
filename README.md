@@ -24,7 +24,7 @@ Este é um projeto de machine learning que reconhece letras do alfabeto de LIBRA
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/andreasgrum00/libras_recognizer.git
    cd nome-do-repositorio
    ```
 
