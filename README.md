@@ -63,22 +63,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/andreasgrum00/libras_recognizer/issues) ou enviar um [pull request](https://github.com/andreasgrum00/libras_recognizer/pulls).
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature ou correção:
-   ```bash
-   git checkout -b minha-feature
-   ```
-3. Envie suas alterações:
-   ```bash
-   git push origin minha-feature
-   ```
-4. Abra um pull request.
-
----
-
 ## 💬 Contato
 Se você tiver dúvidas ou sugestões, entre em contato:
 - Email: andreasgrum00@gmail.com
